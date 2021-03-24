@@ -3,9 +3,9 @@ Arduino game based on popular jumping rope arcade games.
 
 NOTICE: This game is purely just for fun, and I was primarily goofing off with Arduino and Ada-fruit. I thought it would be fun to mimic the demonic jump rope game in many arcades, using the Adafruit Circuit Playground
 
-FIX-ME: Right now the code doesn't implement a game over if you miss the jumprope, and continues infinitely until you try going for it. 
+*Right now the code doesn't implement a game over if you miss the jumprope, and continues infinitely until you try going for it. 
 
-FIX-ME: 
+
 
 Amber Garcia
 Fall 2018 project
