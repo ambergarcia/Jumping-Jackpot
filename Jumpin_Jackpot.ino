@@ -54,7 +54,7 @@ void loop() {
     start();
     win_lose = false;
   }
- // FIX ME: Move this so that it doesnt constantly repeat at the end
+ // FIX: Move this so that it doesnt constantly repeat at the end
   while(game_over == false){
 
     jumpRope();
