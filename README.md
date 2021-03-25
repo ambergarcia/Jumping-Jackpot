@@ -1,5 +1,6 @@
 # Jumping-Jackpot
-Arduino game based on popular jumping rope arcade games. 
+Arduino game based on popular jumping rope arcade games.
+* In order to play the game, upload the code to your Adafruit Circuit Playground
 
 *This game is purely just for fun, and using Arduino and Ada-fruit. Attempts to mimic the jump rope games in many arcades, using the Adafruit Circuit Playground.*
 * Currently no updates planned.
